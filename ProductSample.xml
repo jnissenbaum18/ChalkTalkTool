@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<product product-id="bs-00795">
+    <ean/>
+    <upc/>
+    <unit/>
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Baseball Crossed Bats Engraved Copper Bracelet</display-name>
+    <short-description xml:lang="x-default">Show off your love for baseball with our baseball copper cuff bracelet! Our copper cuff bracelet is laser engraved and easily adjusted to most wrist sizes.
+        
+        Copper has long been known for its healing qualities. Its healing benefits have been attributed to the body's absorption of trace minerals from the copper into the bloodstream which is a supplemental treatment to ease arthritis and boost the immune system. Copper oxidizing into the skin will leave a slight green hue which can be washed off with soap and water.</short-description>
+    <store-force-price-flag>false</store-force-price-flag>
+    <store-non-inventory-flag>false</store-non-inventory-flag>
+    <store-non-revenue-flag>false</store-non-revenue-flag>
+    <store-non-discountable-flag>false</store-non-discountable-flag>
+    <online-flag>true</online-flag>
+    <available-flag>true</available-flag>
+    <searchable-flag>true</searchable-flag>
+    <images>
+        <image-group view-type="hi-res">
+            <image path="bs-00795-2.jpg"/>
+            <image path="bs-00795-3.jpg"/>
+            <image path="bs-00795-4.jpg"/>
+            <image path="bs-00795-5.jpg"/>
+            <image path="bs-00795-6.jpg"/>
+            <image path="bs-00795-7.jpg"/>
+            <image path="bs-00795-8.jpg"/>
+            <image path="bs-00795-9.jpg"/>
+            <image path="bs-00795-10.jpg"/>
+        </image-group>
+    </images>
+    <search-placement>7</search-placement>
+    <page-attributes>
+        <page-title xml:lang="x-default">Baseball Crossed Bats Engraved Copper Bracelet | Baseball Bracelet | Baseball Jewelry</page-title>
+        <page-description xml:lang="x-default">Show off your love for baseball with our baseball copper cuff bracelet! Our copper cuff bracelet is laser engraved and easily adjusted to most wrist sizes.</page-description>
+        <page-keywords xml:lang="x-default">Baseball Crossed Bats Engraved Copper Bracelet, Baseball Bracelet,Baseball Jewelry</page-keywords>
+        <page-url xml:lang="x-default">baseball-crossed-bats-engraved-copper-bracelet</page-url>
+    </page-attributes>
+    <custom-attributes>
+        <custom-attribute attribute-id="componentSkus">
+            <value>Bracelet_Copper;;;1;;;Engravable Copper Bracelet</value>
+        </custom-attribute>
+        <custom-attribute attribute-id="department">ENGRAVING</custom-attribute>
+        <custom-attribute attribute-id="dimWeight">0.04</custom-attribute>
+        <custom-attribute attribute-id="features" xml:lang="x-default">&lt;ul&gt;&#13;
+            &lt;li&gt;Copper cuff bracelet&lt;/li&gt;&#13;
+            &lt;li&gt;12.5mm wide&lt;/li&gt;&#13;
+            &lt;li&gt;Adjustable&lt;/li&gt;&#13;
+            &lt;/ul&gt;</custom-attribute>
+        <custom-attribute attribute-id="gender">Unisex</custom-attribute>
+        <custom-attribute attribute-id="googleColor">Copper</custom-attribute>
+        <custom-attribute attribute-id="metalType">Copper</custom-attribute>
+        <custom-attribute attribute-id="notOnAmazon">FALSE</custom-attribute>
+        <custom-attribute attribute-id="personalization">FALSE</custom-attribute>
+        <custom-attribute attribute-id="processingTime">3</custom-attribute>
+        <custom-attribute attribute-id="productType">Bracelet (Copper)</custom-attribute>
+        <custom-attribute attribute-id="sport">Baseball</custom-attribute>
+    </custom-attributes>
+    <classification-category catalog-id="storefront-catalog-en">cts-Baseball_Copper_Bracelets</classification-category>
+    <pinterest-enabled-flag>false</pinterest-enabled-flag>
+    <facebook-enabled-flag>false</facebook-enabled-flag>
+</product>
