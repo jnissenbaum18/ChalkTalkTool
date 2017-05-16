@@ -20,10 +20,10 @@ lineReader.eachLine(resources.fileToRead, function(catalogLine, catalogLast, cat
 			if (catalogLine.indexOf(imageLine) !== -1) {
 				//if we match an image, make a copy and store outside of scope
 				imageCount++
-				image = ' '.repeat(whitespace) + '<image path="' + imageLine + '"/>'
+				image = ' '.repeat(whitespace) + imageLine.trim()
 			}
-			imageCB()
 			if (imageLast) {
+				//Only once we've gone through the entire image list do we know we have matched at least one image
 				if (imageCount !== 0) {
 					//write the matched image to the file
 					console.log(image)
@@ -35,6 +35,7 @@ lineReader.eachLine(resources.fileToRead, function(catalogLine, catalogLast, cat
 					catalogCB()
 				}
 			}
+			imageCB()
 		})
 	} else {
 		//If the line isn't an image, write the line
